@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+      <class name="Udemy.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:Udemy.MavenJava.RestAPITest@63753b6d]" name="DeleteTwitter" duration-ms="0" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJIRA()[pri:0, instance:Udemy.MavenJava.RestAPITest@63753b6d]" name="PostJIRA" duration-ms="1" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJIRA -->
+      </class> <!-- Udemy.MavenJava.RestAPITest -->
+      <class name="Udemy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Udemy.MavenJava.SeleniumTest@370736d9]" name="BrowserAutomation" duration-ms="9" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="BrowserCompatability()[pri:0, instance:Udemy.MavenJava.SeleniumTest@370736d9]" name="BrowserCompatability" duration-ms="0" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCompatability -->
+      </class> <!-- Udemy.MavenJava.SeleniumTest -->
+      <class name="Udemy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="AndroidApps()[pri:0, instance:Udemy.MavenJava.AppiumTest@5f9d02cb]" name="AndroidApps" duration-ms="0" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApps -->
+        <test-method status="PASS" signature="iOSApps()[pri:0, instance:Udemy.MavenJava.AppiumTest@5f9d02cb]" name="iOSApps" duration-ms="0" started-at="2020-10-05T18:28:11 IST" finished-at="2020-10-05T18:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApps -->
+      </class> <!-- Udemy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

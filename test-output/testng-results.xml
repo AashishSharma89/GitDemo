@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10507" started-at="2020-09-25T17:34:36 IST" finished-at="2020-09-25T17:34:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10507" started-at="2020-09-25T17:34:36 IST" finished-at="2020-09-25T17:34:46 IST">
+      <class name="Udemy.MavenJava.ExtentReportsDemo">
+        <test-method status="PASS" signature="config()[pri:0, instance:Udemy.MavenJava.ExtentReportsDemo@7e2d773b]" name="config" is-config="true" duration-ms="476" started-at="2020-09-25T17:34:36 IST" finished-at="2020-09-25T17:34:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="callBrowser()[pri:0, instance:Udemy.MavenJava.ExtentReportsDemo@7e2d773b]" name="callBrowser" duration-ms="9981" started-at="2020-09-25T17:34:36 IST" finished-at="2020-09-25T17:34:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callBrowser -->
+      </class> <!-- Udemy.MavenJava.ExtentReportsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
